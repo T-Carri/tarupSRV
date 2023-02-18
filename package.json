@@ -1,0 +1,22 @@
+{
+  "name": "servidortarup",
+  "version": "1.0.0",
+  "description": "agiliza tus tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "servidortarup"
+  },
+  "keywords": [
+    "Productividad",
+    "escolar"
+  ],
+  "author": "Bryan Carrillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
